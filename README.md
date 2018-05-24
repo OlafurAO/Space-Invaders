@@ -1,2 +1,2 @@
 # Space-Invaders
-A Space Invaders clone
+A Space Invaders clone done in pygame
